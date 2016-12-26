@@ -1,6 +1,6 @@
 /**
  * 
- * @author esahe2
+ * @author Jason Schenck
  *
  * @param <K> The type of the key
  * @param <V> The type of the value
